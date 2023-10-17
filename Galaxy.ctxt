@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Galaxy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OuterSpace\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Galaxy()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OuterSpace.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=points
+comment4.target=void\ AddP(int)
+comment5.params=
+comment5.target=int\ points()
+numComments=6
